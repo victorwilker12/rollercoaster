@@ -1,0 +1,2 @@
+# rollercoaster
+O Problema da Montanha Russa (Roller Coaster) é um exemplo lúdico de um problema muito comum em controle de processos. O problema simula uma montanha russa onde pessoas entram na fila esperando a vez, depois entram no carro, que quando estiver cheio, parte para a viagem até retornar para pegar novos passageiros. Onde se usa princípios básico de programação concorrente para resolver o problema.
